@@ -1,6 +1,8 @@
 # JLPT N1 — 問題3・4・5
 
-30 PDF, chia theo đúng 10 nhóm bộ. Chọn file trong bảng, mở trên GitHub rồi chọn Download raw file.
+30 PDF, chia theo đúng 10 nhóm bộ. **Mondai 3 đã được làm lại theo file N2 mẫu: 10 PDF, 129 trang, đủ 176 câu; ANSWER gồm crop đầy đủ đáp án đúng, SCRIPT giữ câu hỏi và 4 lựa chọn.**
+
+[Tải riêng 10 PDF Mondai 3 — ZIP](JLPT_N1_Mondai3_10_PDF.zip) Chọn file trong bảng, mở trên GitHub rồi chọn Download raw file.
 
 13 bộ còn thiếu bằng chứng thứ tự lựa chọn ở phần cuối 問題5; xem báo cáo kiểm tra.
 
